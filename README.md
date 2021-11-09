@@ -53,7 +53,7 @@ I hope you enjoyed!
 
 **Jackson T. Veiga**
 
-* CVLattes: http://lattes.cnpq.br/893985001407088
+* CVLattes: http://lattes.cnpq.br/8939850014070884
 * ORCID: https://orcid.org/0000-0003-3228-7352
 * Github: [@JTVeiga](https://github.com/JTVeiga/)
 * LinkedIn: [@Jackson Tavares Veiga](https://www.linkedin.com/in/jackson-tavares-veiga-37b3a36a/)
