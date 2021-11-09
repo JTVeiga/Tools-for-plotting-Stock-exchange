@@ -8,9 +8,12 @@ This experiment demonstrates how to build "candle" charts of assets.
 For this, two finance libraries in phyton were used, tested in the "Jupyter-Notebook" environment, but if you prefer, you can replicate them in Colab.
 
 [Reference]
-https://www.youtube.com/watch?v=FYqz26u-xiE
+
+01 - https://www.youtube.com/watch?v=FYqz26u-xiE
 https://stackoverflow.com/questions/60599812/how-can-i-customize-mplfinance-plot
 https://pypi.org/project/yfinance/
+
+02 - https://www.youtube.com/watch?v=FYqz26u-xiE&authuser=0
 
 ## Get Started
 1. First, at the terminal, you must clone the project (here we use the HTTP protocol, but if you prefer you can copy the project's SSH protocol link):
@@ -41,7 +44,7 @@ In addition we can look at the data..
 import mplfinance as fplt;
 import yfinance as yf;
 ```
-
+You can check the result in the phi file provided.
 I hope you enjoyed!
 
 
