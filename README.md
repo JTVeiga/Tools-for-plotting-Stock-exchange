@@ -30,19 +30,20 @@ https://pypi.org/project/yfinance/
 import mplfinance as fplt;
 import yfinance as yf;
 ```
-4. Fourth, here we import a paper history, for example MGLU3:
+4. Fourth, here we import a paper history and save it in data variable, for example MGLU3:
 
 ```
-import mplfinance as fplt;
-import yfinance as yf;
+dados = yf.download('MGLU3.SA', start = '2021-01-21', end = '2021-11-08')
 ```
 In addition we can look at the data..
 
 5. Fifth, the generated data can be plotted using the mplfinance library.
 
 ```
-import mplfinance as fplt;
-import yfinance as yf;
+fplt.plot(dados, type= 'candle',
+          style = 'charles',
+          title = 'Graficos de Candle da MGLU3, 2021',
+          ylabel = 'Preço (R$)')
 ```
 You can check the result in the phi file provided.
 I hope you enjoyed!
